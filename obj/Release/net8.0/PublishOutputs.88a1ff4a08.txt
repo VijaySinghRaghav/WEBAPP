@@ -1,0 +1,7 @@
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.exe
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\appsettings.Development.json
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\appsettings.json
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.dll
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.deps.json
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.runtimeconfig.json
+D:\azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.pdb

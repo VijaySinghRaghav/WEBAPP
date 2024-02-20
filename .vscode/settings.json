@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ceeff3f3-5492-4381-a640-4721220f0b3f/resourceGroups/VR_Practice/providers/Microsoft.Web/sites/VRPractice"
+}
