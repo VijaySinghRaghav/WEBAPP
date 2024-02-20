@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\azure\\az-webapp\\webapp\\webapp.csproj": {}
+    "D:\\Azure\\az-webapp\\webapp\\webapp.csproj": {}
   },
   "projects": {
-    "D:\\azure\\az-webapp\\webapp\\webapp.csproj": {
+    "D:\\Azure\\az-webapp\\webapp\\webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\azure\\az-webapp\\webapp\\webapp.csproj",
+        "projectUniqueName": "D:\\Azure\\az-webapp\\webapp\\webapp.csproj",
         "projectName": "webapp",
-        "projectPath": "D:\\azure\\az-webapp\\webapp\\webapp.csproj",
+        "projectPath": "D:\\Azure\\az-webapp\\webapp\\webapp.csproj",
         "packagesPath": "C:\\Users\\Vijay\\.nuget\\packages\\",
-        "outputPath": "D:\\azure\\az-webapp\\webapp\\obj\\",
+        "outputPath": "D:\\Azure\\az-webapp\\webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vijay\\AppData\\Roaming\\NuGet\\NuGet.Config",
